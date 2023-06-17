@@ -11,8 +11,8 @@
 ## General Information
 - This repository contains the analysis and findings conducted by BoomBikes, a bike-sharing provider in the US. The company has faced challenges in sustaining their business due to the impact of the COVID-19 pandemic. In an effort to accelerate their revenue and stand out from competitors once the ongoing lockdown measures are lifted and the economy restores to a healthy state, BoomBikes has embarked on a research initiative.
 - The company wants to know:
-- - Which variables are significant in predicting the demand for shared bikes.
-- - How well those variables describe the bike demands
+  - Which variables are significant in predicting the demand for shared bikes.
+  - How well those variables describe the bike demands
 
 ## Conclusions
 - When the predictor variables' values are standardised, the above reveals that the top attributes impacting demand are temperature, followed by year and humidity.
